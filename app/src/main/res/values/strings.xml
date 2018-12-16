@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">tousifranchwi@gmail.com</string>
+    <string name="app_head">tousifranchwi@gmail.com</string>
+    <string name="app_name">Activity Life Cycle</string>
 </resources>

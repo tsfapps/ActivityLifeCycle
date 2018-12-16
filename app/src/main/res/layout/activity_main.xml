@@ -11,8 +11,10 @@
     <Button
         android:id="@+id/btn_a"
         android:text="Activity A"
-        android:textAllCaps="false"
-        android:layout_width="250dp"
-        android:layout_height="wrap_content" />
+        style="@style/style_btn" />
+    <Button
+        android:id="@+id/btn_dialog"
+        android:text="Show dialog"
+        style="@style/style_btn" />
 
 </LinearLayout>
